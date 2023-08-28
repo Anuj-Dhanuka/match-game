@@ -1,0 +1,14 @@
+.tab-item-button {
+  font-family: Roboto;
+  color: #ffffff;
+  margin-right: 32px;
+  font-size: 28px;
+  background-color: transparent;
+  border-width: 0px;
+  padding-bottom: 10px;
+}
+
+.tab-button-style {
+  color: #fec653;
+  border-bottom: 3px solid #fec653;
+}

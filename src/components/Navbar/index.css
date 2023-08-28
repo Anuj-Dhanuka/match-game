@@ -1,0 +1,44 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.nav-bg-container {
+  background-color: #2c0e3a;
+  height: 10vh;
+  margin-top: 0px;
+  padding-top: 0px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 36px;
+  padding-right: 36px;
+}
+
+.logo-image {
+  height: 40px;
+}
+
+.nav-score-time-container {
+  display: flex;
+}
+
+.nav-score {
+  color: #ffffff;
+  font-family: Roboto;
+}
+
+.nav-timer-container {
+  display: flex;
+  margin-left: 16px;
+}
+
+.nav-timer {
+  height: 20px;
+  margin-right: 6px;
+}
+
+.nav-running-time {
+  font-family: Roboto;
+  color: #fec653;
+}
